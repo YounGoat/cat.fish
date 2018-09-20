@@ -40,6 +40,9 @@
 
 ![不是悉尼](./photos/not-cydney.jpg)
 
+> 你要去悉尼？   
+> 不是 XI-NI，是 XI-NING。
+
 ![西宁](./photos/xining.jpg)
 -------
 
