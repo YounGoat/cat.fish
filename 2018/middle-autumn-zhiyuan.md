@@ -9,3 +9,5 @@
 ![7](./photos/middle-autumn-zhiyuan/7.jpg)
 ![8](./photos/middle-autumn-zhiyuan/8.jpg)
 ![9](./photos/middle-autumn-zhiyuan/9.jpg)
+
+[版本声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
