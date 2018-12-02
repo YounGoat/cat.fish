@@ -7,5 +7,6 @@
 *   [世界上最绝望的忧伤](2018/deseprate-sadness.md)
 *   [你炒股吗？](2018/stocks.md)
 *   [洞穴里的记忆捕手 之 猫的小方城中学](2018/middle-school.md)
+*   [-日记- 我和我的小白](2018/xiaobai.md)
 
 [版本声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
