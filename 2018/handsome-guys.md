@@ -88,4 +88,4 @@ __<font color="red">儿女情长是私德最好的注脚，这是一个伟大男
 
 -------
 文中使用肖像及援引史料源于网络，如有偏颇，还请指正。  
-[版本声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
+[版权声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)

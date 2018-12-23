@@ -39,3 +39,5 @@ SWITCH 我不想画！
 ![小白](photos/xiaobai.png)
 
 #I-LOVE-CYCLING#
+
+[版权声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)

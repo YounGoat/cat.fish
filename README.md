@@ -10,5 +10,6 @@
 *   [-日记- 我和我的小白](2018/xiaobai.md)
 *   [我讨厌你，迟钝的蒋小猫](2018/dull-cat.md)
 *   [鱼之歌 ① 哎呦喂呀一个球](2018/rhyme-ball.md)
+*	[蒋小猫的朋友圈 ① 纪念 L 君](2018/mr-l.md)
 
 [版本声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)

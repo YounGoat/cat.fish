@@ -213,4 +213,4 @@ __有一种事叫只可意会。__ 天知地知，你知我知，笑而不语皆
 
 -------
 “我”是蒋小猫，蒋小猫却不是我。以上全是胡言乱语，请勿对号入座。  
-[版本声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
+[版权声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)

@@ -46,4 +46,4 @@
 ![西宁](./photos/xining.jpg)
 -------
 
-[版本声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
+[版权声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
