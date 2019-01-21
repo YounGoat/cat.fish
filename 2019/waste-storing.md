@@ -88,3 +88,5 @@
 
 ![27](./photos/waste-storing/27.png)  
 27. 让我们一起行动起来，垃圾分类，保护人类！
+
+[版权声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
