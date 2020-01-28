@@ -75,8 +75,8 @@ Kobe 是日语神户的译音。据说，科比的父亲很喜欢神户牛肉，
 
 这是传奇的传承，因为这次事故，戛然而止。这是真正的不幸！
 
-https://zh.wikipedia.org/wiki/%E7%A7%91%E6%AF%94%C2%B7%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9
+##  References
 
-https://fox6now.com/2020/01/26/you-got-this-kobe-bryant-was-grooming-his-daughter-gianna-to-carry-on-his-legacy/
-
-https://www.morganmckinley.com.cn/en/article/what-kobe-teaches-us-how-have-successful-career
+*   [科比·布莱恩特](https://zh.wikipedia.org/wiki/%E7%A7%91%E6%AF%94%C2%B7%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9)
+*   [‘You got this:’ Kobe Bryant was grooming his daughter, Gianna, to carry on his legacy](https://fox6now.com/2020/01/26/you-got-this-kobe-bryant-was-grooming-his-daughter-gianna-to-carry-on-his-legacy/)
+*   [Four things Kobe teaches us on how to have a successful career](https://www.morganmckinley.com.cn/en/article/what-kobe-teaches-us-how-have-successful-career)
